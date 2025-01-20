@@ -1,7 +1,7 @@
 ---
-title: "Writing a great story for data science projects - spring 2025"
-subtitle: "This is a Report Template Quarto"
-author: "Students names (Advisor: Dr. Cohen)"
+title: "Linear Mixed Models IDC6940 - spring 2025"
+subtitle: "This is a project around Linear Mixed Models"
+author: "Alex Ottley"
 date: '`r Sys.Date()`'
 format:
   html:
@@ -21,24 +21,15 @@ editor:
 Slides: [slides.html](slides.html){target="_blank"} ( Go to `slides.qmd`
 to edit)
 
-::: callout-important
-**Remember:** Your goal is to make your audience understand and care
-about your findings. By crafting a compelling story, you can effectively
-communicate the value of your data science project.
-
-Carefully read this template since it has instructions and tips to
-writing!
-:::
-
 ## Introduction
 
 The introduction should:
 
--   Develop a storyline that captures attention and maintains interest.
+-   Develop a storyline that captures attention and maintains interest around Linear Mixed Models 
 
--   Your audience is your peers
+-   Your audience is your peers be sure to present your project as if your peers did not have Data Analysis experience
 
--   Clearly state the problem or question you're addressing.
+-   Clearly state the problems and solutions with the topic/data you are presenting
 
 <!-- -->
 
@@ -48,15 +39,9 @@ The introduction should:
 
 Example of writing including citing references:
 
-*This is an introduction to ..... regression, which is a non-parametric
-estimator that estimates the conditional expectation of two variables
-which is random. The goal of a kernel regression is to discover the
-non-linear relationship between two random variables. To discover the
-non-linear relationship, kernel estimator or kernel smoothing is the
-main method to estimate the curve for non-parametric statistics. In
-kernel estimator, weight function is known as kernel function
-[@efr2008]. Cite this paper [@bro2014principal]. The GEE [@wang2014].
-The PCA [@daffertshofer2004pca]*. Topology can be used in machine learning [@adams2021topology]
+Predict healthcare cost using mixed models [@freyder2016using]
+
+Quality of life among cancer patients using mixed models [@klein2017income]
 
 *This is my work and I want to add more work...*
 
