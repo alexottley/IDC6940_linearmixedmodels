@@ -43,6 +43,10 @@ Predict healthcare cost using mixed models [@freyder2016using]
 
 Quality of life among cancer patients using mixed models [@klein2017income]
 
+Association between sleep disturbance and nocturnal blood pressure profiles by a linear mixed model analysis: the Nagahama study [@matsumoto2019association]
+
+Statistical modelling of cardiovascular data. an introduction to linear mixed models [@gonccalves2005statistical]
+
 *This is my work and I want to add more work...*
 
 ## Methods
